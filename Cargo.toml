@@ -1,0 +1,7 @@
+[package]
+edition = "2021"
+name = "boundless-canvas"
+version = "0.1.0"
+
+[dependencies]
+ultraviolet = "*"
